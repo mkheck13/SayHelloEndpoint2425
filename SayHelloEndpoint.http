@@ -1,0 +1,6 @@
+@SayHelloEndpoint_HostAddress = http://localhost:5047
+
+GET {{SayHelloEndpoint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

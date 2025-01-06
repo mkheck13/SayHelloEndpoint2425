@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\SayHelloEndpoint.props" />
+  <Import Project="../buildMultiTargeting/SayHelloEndpoint.props" />
 </Project>
